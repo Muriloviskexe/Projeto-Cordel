@@ -50,7 +50,7 @@ a{
     display: flex;
     align-items: center;
     height:700px;
-    background: white url(image/background001.jpg) center center no-repeat fixed;
+    background: white url(../image/background001.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
@@ -58,7 +58,7 @@ a{
     display: flex;
     align-items: center;
     height:700px;
-    background: white url(image/background002.jpg) center center no-repeat fixed;
+    background: white url(../image/background002.jpg) center center no-repeat fixed;
     background-size: 100% 100%;
 }
 
