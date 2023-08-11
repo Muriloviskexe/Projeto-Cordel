@@ -76,7 +76,7 @@ section{
 }
 
 #img1{
-    background: rgb(78, 78, 78) url(../image/background001.jpg) center center no-repeat fixed;
+    background: rgb(78, 78, 78) url(../image/background001.jpg) right top no-repeat fixed;
     background-size: cover;
 }
 
